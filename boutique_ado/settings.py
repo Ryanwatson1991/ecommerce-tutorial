@@ -27,7 +27,7 @@ SECRET_KEY = '_o_&4cgr1_8oo&djp$*znn!%)gldnl8e22%snm0z&z+mq!b)we'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['rwat-boutique-ado.heroku.com', 'localhost']
+ALLOWED_HOSTS = ['https://rwat-boutique-ado.herokuapp.com/', 'localhost']
 
 
 # Application definition
